@@ -123,9 +123,6 @@
       <a href="https://trello.com/" target="blank"> 
          <img src="https://img.shields.io/badge/-trello-blue?style=for-the-badge&color=0175ba" /> 
       </a>
-      <a href="https://www.atlassian.com/software/jira" target="blank"> 
-         <img src="https://img.shields.io/badge/-jira-blue?style=for-the-badge&color=2270d4" /> 
-      </a>
       <a href="https://vercel.com/" target="blank"> 
          <img src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=000000" /> 
       </a>
