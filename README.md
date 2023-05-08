@@ -1,14 +1,11 @@
-<h3>Olá, me chamo Lucas Buettel</h3>
+<h2>Olá 👋 , me chamo Lucas Buettel!</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-buettellucas@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:buettellucas@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-buettellucas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-buettel/ "Connect on LinkedIn")
 
-<!-- 
-[![Instagram Badge](https://img.shields.io/badge/-@daniel__bernardino-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel__bernardino/ "Follow on Instagram")
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
--->
-
--  Meu atual projeto individual em andamento é o [MyDelivery](https://github.com/lucasbuettel/MyDelivery)!
+-  💻 Sou Desenvolvedor Web Full Stack;
+-  📝 Atual projeto individual em andamento: [MyDelivery](https://github.com/lucasbuettel/MyDelivery);
+-  👨🏼‍💻 Interesse em aprender as Linguagens Phyton e Java.
 
 <div>
   <div>
@@ -94,11 +91,6 @@
       </a>
     </div>
   </div>
-  
-  
-  
-  
-  
   <div>
     <h2>Editores & Ferramentas</h2>
     <div>
@@ -130,7 +122,10 @@
          <img src="https://img.shields.io/badge/-render-blue?style=for-the-badge&color=171833" /> 
       </a>
     </div>
+    <h2> Estatísticas </h2>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbuettel&layout=compact&langs_count=7&theme=dark&background=000000"/>
   </div>
+  
 </div>
 
 ##
