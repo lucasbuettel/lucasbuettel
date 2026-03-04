@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-buettellucas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-buettel/ "Connect on LinkedIn")
 
 -  💻 Sou Desenvolvedor Web Full Stack;
--  📝 Atual projeto individual em andamento: [MyDelivery](https://github.com/lucasbuettel/MyDelivery);
--  👨🏼‍💻 Interesse em aprender as Linguagens Phyton e Java.
+-  📝 Atualmente presto serviço para a empresa Baumgratz Code
 
 <div>
   <div>
